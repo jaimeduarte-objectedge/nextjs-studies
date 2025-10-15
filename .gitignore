@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# Added this for Security reasons, don't want to expose my MongoDB credentials
+next.config.js
+
 # production
 /build
 
